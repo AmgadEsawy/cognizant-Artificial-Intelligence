@@ -1,0 +1,3 @@
+Cognizant Artificial Intelligence Job Simulation on Forage
+As part of Cognizant Digital Business, Cognizant’s Artificial Intelligence and Data Analytics Practice provides advanced data collection and management expertise, as well as artificial intelligence and analytics capabilities that help clients create highly personalized digital experiences, products and services at every touchpoint of the customer journey.
+During this program, I got the opportunity to step into the shoes of a Cognizant team member and complete tasks that replicate the work that Artificial Intelligence team does every day. I learned how to perform exploratory data analysis, communicate results of a machine learning model, implement algorithm production, and review algorithm performance. 
